@@ -1,0 +1,16 @@
+교과목코드,교과목이름,선수과목
+C1,Programming I,None
+C2,Discrete Mathematics,None
+C3,Data Structures,"C1, C2"
+C4,Calculus I,None
+C5,Calculus II,C4
+C6,linear Algebra,C5
+C7,Analysis of Algorithms,"C3, C6"
+C8,Assembly language,C3
+C9,Operating Systems,"C7, C8"
+C10,Programming Languages,C7
+C11,Compiler Design,C10
+C12,Artificial Intelligencce,C7
+C13,Computational Theory,C7
+C14,Parallel Algorithms,C13
+C15,Numberical Analysis,C6
