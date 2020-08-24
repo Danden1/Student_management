@@ -1,3 +1,3 @@
-# student management program
+## student management program
 
-## Ajou Univ Data structure assignment
+### Ajou Univ Data structure assignment
